@@ -5,12 +5,12 @@ I'm constantly learning and re-learning (basics are important!)
 
 I’m currently working on building an end-to-end ML application with the following workflow:
 
-Data Gathering: Collecting relevant data for the project.
-Data Cleaning: Preprocessing and ensuring data quality.
-Data Storage: Leveraging FEAST for feature storage.
-Model Training: Developing and training a robust ML model.
-Application Development: Building a user-facing application for deployment.
-Deployment: Using a Docker container to deploy the application on a virtual machine (VM).
+- Data Gathering: Collecting relevant data for the project.
+- Data Cleaning: Preprocessing and ensuring data quality.
+- Data Storage: Leveraging FEAST for feature storage.
+- Model Training: Developing and training a robust ML model.
+- Application Development: Building a user-facing application for deployment.
+- Deployment: Using a Docker container to deploy the application on a virtual machine (VM).
 
 
 Stay tuned for the updates!
