@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Skills
+## Skills
 
 Programming Languages: Python,, MATLAB, GPU Kernels.
 Frameworks: PyTorch, TensorFlow, PyTorch TensorBoard, OpenCV, PIL, NumPy, Matplotlib, TensorRT.
