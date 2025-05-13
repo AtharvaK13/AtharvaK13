@@ -3,17 +3,11 @@
 I'm Atharva – a Masters graduate in Computer Science  with a passion for turning complex data puzzles into sleek machine learning solutions! 🚀 When I'm not training models or diving deep into algorithms, you'll probably find me experimenting with code, exploring new tech, or chasing the next big AI breakthrough.
 I'm constantly learning and re-learning (basics are important!)
 
-I’m currently working on building an end-to-end ML application with the following workflow:
-
-- Data Gathering: Collecting relevant data for the project.
-- Data Cleaning: Preprocessing and ensuring data quality.
-- Data Storage: Leveraging FEAST for feature storage.
-- Model Training: Developing and training a robust ML model.
-- Application Development: Building a user-facing application for deployment.
-- Deployment: Using a Docker container to deploy the application on a virtual machine (VM).
+Currently working on building a Text to SQL solution which utilizes NetworkX, SQL alchemy and LLMs to generate SQL queries based on natural language questions regarding the database!
 
 
-Stay tuned for the updates!
+
+
 <!--
 **AtharvaK13/AtharvaK13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
