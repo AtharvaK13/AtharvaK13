@@ -61,3 +61,8 @@ Certifications:
 - 3. LLMOps by Google Cloud on DeepLearning.ai (https://learn.deeplearning.ai/accomplishments/0c9fa469-66dd-4c69-b462-079ec85c7846?usp=sharing)
 - 4. Machine Learning by Andrew Ng on Coursera (https://www.coursera.org/account/accomplishments/records/2R6S34P9BH98)
  
+Publications:
+- 1. Image-Based Malware Classification Using QR and Aztec Codes: https://link.springer.com/chapter/10.1007/978-3-031-83157-7_1
+- 2. AI Estimating Viable Locations for Onshore Wind Turbine Installations: https://www.academia.edu/download/94380632/AI_Estimating_Viable_Locations_for_Onshore_Wind_Turbine_Installations.pdf 
+
+ 
